@@ -22,26 +22,7 @@ Programa em Python que calcula o desconto progressivo aplicado a uma compra onli
 | De 200,00 até 299,99 | 10% |
 | A partir de 300,00 | 15% |
 
-### Fluxo de tomada de decisão
 
-```mermaid
-flowchart TD
-    Start(["Início"]) --> Input[/"Leitura do valor da compra"/]
-    Input --> C1{"valor_compra < 200.00?"}
-
-    C1 -- Sim --> D1["taxa_desconto = 0.05 (5%)"]
-    C1 -- Não --> C2{"valor_compra < 300.00?"}
-
-    C2 -- Sim --> D2["taxa_desconto = 0.10 (10%)"]
-    C2 -- Não --> D3["taxa_desconto = 0.15 (15%)"]
-
-    D1 --> Calc["Cálculo do desconto e do valor final"]
-    D2 --> Calc
-    D3 --> Calc
-
-    Calc --> Output[/"Exibição do resultado"/]
-    Output --> EndNode(["Fim"])
-```
 
 ## 🧠 Como o código funciona
 
