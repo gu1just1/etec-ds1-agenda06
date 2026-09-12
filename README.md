@@ -22,8 +22,6 @@ Programa em Python que calcula o desconto progressivo aplicado a uma compra onli
 | De 200,00 até 299,99 | 10% |
 | A partir de 300,00 | 15% |
 
-
-
 ## 🧠 Como o código funciona
 
 O programa segue o modelo **entrada → processamento → saída**:
