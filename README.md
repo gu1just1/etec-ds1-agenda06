@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Instituição](https://img.shields.io/badge/Instituição-ETEC%20%7C%20CPS-B20000?style=for-the-badge)](https://www.cps.sp.gov.br/)
-[![Disciplina](https://img.shields.io/badge/Disciplina-DS%20I%20--%20Agenda%2006-0969DA?style=for-the-badge)]()
+[![Disciplina](https://img.shields.io/badge/Disciplina-DS%20I%20--%20Agenda%2006-0969DA?style=for-the-badge)]()\
 
 <div align="center">
   <br>
