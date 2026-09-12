@@ -6,6 +6,12 @@
 [![Instituição](https://img.shields.io/badge/Instituição-ETEC%20%7C%20CPS-B20000?style=for-the-badge)](https://www.cps.sp.gov.br/)
 [![Disciplina](https://img.shields.io/badge/Disciplina-DS%20I%20--%20Agenda%2006-0969DA?style=for-the-badge)]()
 
+<div align="center">
+  <br>
+  <img src="carrinhodecompras.gif" alt="Simulação Carrinho de Compras" width="120px" />
+  <br>
+</div>
+
 ---
 
 ## 📌 Visão Geral e Contexto
@@ -149,7 +155,8 @@ Total a pagar:      R$ 255.00
 etec-ds1-agenda06/
 │
 ├── GuilhermeJusti_Ag6_DS_I.py   # Script principal contendo o algoritmo de desconto
-└── README.md                    # Documentação técnica e guia de engenharia
+├── README.md                    # Documentação técnica e guia de engenharia
+└── carrinhodecompras.gif        # Ativo visual da simulação de carrinho de compras
 ```
 
 ---
